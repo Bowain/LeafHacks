@@ -5267,394 +5267,394 @@ Pics (special)
 334a pic of Wendell **NEW**
 334b pic of Lottie **NEW**
 
-Tools & wearables
+Tools & wearables - Outils & équipements
 -----------------
-334c rental axe
-334d axe
-334e silver axe
-334f golden axe
-3350 rental net
-3351 net
-3352 silver net
-3353 golden net
-3354 rental rod
-3355 fishing rod
-3356 silver rod
-3357 golden rod
-3358 rental shovel
-3359 shovel
-335a silver shovel
-335b golden shovel
-335c rental can
-335d watering can
-335e silver can
-335f golden can
-3360 rental slingshot
-3361 slingshot
-3362 silver slingshot
-3363 golden slingshot
-3364 rental toy hammer
-3365 toy hammer
-3366 megaphone
-3367 timer
-3368 sparkler
-3369 roman candle
-336a party popper
-336b bubble wand
-336c bunny r. balloon
-336d bunny o. balloon
-336e bunny y. balloon
-336f bunny g. balloon
-3370 bunny c. balloon
-3371 bunny b. balloon
-3372 bunny i. balloon
-3373 bunny p. balloon
-3374 red balloon
-3375 orange balloon
-3376 yellow balloon
-3377 green balloon
-3378 cyan balloon
-3379 blue balloon
-337a indigo balloon
-337b pink balloon
-337c heart r. balloon
-337d heart o. balloon
-337e heart y. balloon
-337f heart g. balloon
-3380 heart c. balloon
-3381 heart b. balloon
-3382 heart i. balloon
-3383 heart p. balloon
-3384 red pinwheel
-3385 orange pinwheel
-3386 yellow pinwheel
-3387 green pinwheel
-3388 cyan pinwheel
-3389 blue pinwheel
-338a indigo pinwheel
-338b pink pinwheel
+334c rental axe - hache (prêt)
+334d axe - hache
+334e silver axe - hache d'argent
+334f golden axe - hache dorée
+3350 rental net - filet (prêt)
+3351 net - filet
+3352 silver net - filet d'argent
+3353 golden net - filet dorée
+3354 rental rod - canne à pêche (prêt)
+3355 fishing rod - canne à pêche
+3356 silver rod - canne à pêche d'argent
+3357 golden rod - canne à pêche dorée
+3358 rental shovel - pelle (prêt)
+3359 shovel - pelle
+335a silver shovel - pelle d'argent
+335b golden shovel - pelle d'or
+335c rental can - arrosoir (prêt)
+335d watering can - arrosoir
+335e silver can - arrosoir d'argent
+335f golden can - arrosoir doré
+3360 rental slingshot - lance-pierre (prêt)
+3361 slingshot - lance-pierre
+3362 silver slingshot - lance-pierre d'argent
+3363 golden slingshot - lance-pierre doré
+3364 rental toy hammer - marteau en plastique (prêt)
+3365 toy hammer - marteau en plastique
+3366 megaphone - mégaphone
+3367 timer - chronomètre
+3368 sparkler - cierge magique
+3369 roman candle - chandelle romaine
+336a party popper - pétard
+336b bubble wand - lance-bulles
+336c bunny r. balloon - ballon lapin rouge
+336d bunny o. balloon - ballon lapin orange
+336e bunny y. balloon - ballon lapin jaune
+336f bunny g. balloon - ballon lapin vert
+3370 bunny c. balloon - ballon lapin b. ciel
+3371 bunny b. balloon - ballon lapin bleu
+3372 bunny i. balloon - ballon lapin violet
+3373 bunny p. balloon - ballon lapin rose
+3374 red balloon - ballon rouge
+3375 orange balloon - ballon orange
+3376 yellow balloon - ballon jaune
+3377 green balloon - ballon vert
+3378 cyan balloon - ballon bleu ciel
+3379 blue balloon - ballon bleu
+337a indigo balloon - ballon violet
+337b pink balloon - ballon rose
+337c heart r. balloon - ballon cœur rouge
+337d heart o. balloon - ballon cœur orange
+337e heart y. balloon - ballon cœur jaune
+337f heart g. balloon - ballon cœur vert
+3380 heart c. balloon - ballon cœur b. ciel
+3381 heart b. balloon - ballon cœur bleu
+3382 heart i. balloon - ballon cœur violet
+3383 heart p. balloon - ballon cœur rose
+3384 red pinwheel - moulin rouge
+3385 orange pinwheel - moulin orange
+3386 yellow pinwheel - moulin jaune
+3387 green pinwheel - moulin vert
+3388 cyan pinwheel - moulin bleu ciel
+3389 blue pinwheel - moulin bleu
+338a indigo pinwheel - moulin violet
+338b pink pinwheel - moulin rose
 
-Uncategorized 2
+Uncategorized 2 - Incatégorisés 2
 ---------------
-338c coffee
-338d fizzy apple juice
-338e beans
-338f good-luck roll
-3390 vanilla soft-serve
-3391 choco soft-serve
-3392 matcha soft-serve
-3393 swirl soft-serve
-3394 vanilla ice cream
-3395 strawberry ice cream
-3396 lemon double scoop
-3397 mint double scoop
-3398 blue glow wand
-3399 green glow wand
-339a pink glow wand
-339b yellow glow wand
-339c Flower Fairy wand **NEW**
-339d Kiki and Lala wand **NEW**
-339e tweeter
-339f fountain firework
-33a0 used firework
-33a1 Santa bag
-33a2 mystery bag
-33a3 normal coffee beans
-33a4 good coffee beans
-33a5 superb coffee beans
-33a6 chocolate coin
-33a7 custom shirt
-33a8 custom pattern (easel)
-33a9 custom pattern (frame)
+338c coffee - café
+338d fizzy apple juice - cocktail de fruits
+338e beans - panier de haricots
+338f good-luck roll - maki porte-bonheur
+3390 vanilla soft-serve - cornet vanille
+3391 choco soft-serve - cornet de chocolat
+3392 matcha soft-serve - cornet pistache
+3393 swirl soft-serve - cornet fraise
+3394 vanilla ice cream - glace fruits confits
+3395 strawberry ice cream - glace à la framboise
+3396 lemon double scoop - glace citron-menthe
+3397 mint double scoop - glace tropical-melon
+3398 blue glow wand - baguette fluo bleue
+3399 green glow wand - baguette fluo verte
+339a pink glow wand - baguette fluo rose
+339b yellow glow wand - baguette fluo jaune
+339c Flower Fairy wand **NEW** - baguette églantine **NOUVEAU**
+339d Kiki and Lala wand **NEW** - baguette Kiki & Lala **NOUVEAU**
+339e tweeter - sans-gêne
+339f fountain firework - fontaine d'artifice
+33a0 used firework - feu d'artifice usagé
+33a1 Santa bag - sac de père Noël
+33a2 mystery bag - sac mystère
+33a3 normal coffee beans - sachet de café banal
+33a4 good coffee beans - sachet de bon café
+33a5 superb coffee beans - sachet de café extra
+33a6 chocolate coin - pièce en chocolat
+33a7 custom shirt - motif vêtement
+33a8 custom pattern (easel) - motif sol chevalet
+33a9 custom pattern (frame) - motif sol cadre
 
-Uncategorized 3
+Uncategorized 3 - Incatégorisés 3
 ---------------
-33b7 signature sheet
-33b8 petition form
-33b9 paper scrap
-33ba lost item (book)
-33bb lost item (pouch)
-33bc lost item (mitten)
-33bd lost item (paper bag)
-33be towel
+33b7 signature sheet - carnet de signatures
+33b8 petition form - pétition
+33b9 paper scrap - débris de papier
+33ba lost item (book) - objet perdu (livre)
+33bb lost item (pouch) - objet perdu (sac)
+33bc lost item (mitten) - objet perdu (gants)
+33bd lost item (paper bag) - objet perdu (sac en papier)
+33be towel - serviette
 
-Fortune cookies
+Fortune cookies - Gâteaux de la chance
 -------------
-33c8 fortune cookie
-33c9 fortune #1
-33ca fortune #2
-33cb fortune #3
-33cc fortune #46
-33cd fortune #5
-33ce fortune #49
-33cf fortune #7
-33d0 fortune #8
-33d1 fortune #9
-33d2 fortune #10
-33d3 fortune #11
-33d4 fortune #12
-33d5 fortune #13
-33d6 fortune #14
-33d7 fortune #15
-33d8 fortune #50
-33d9 fortune #17
-33da fortune #18
-33db fortune #19
-33dc fortune #20
-33dd fortune #21
-33de fortune #22
-33df fortune #23
-33e0 fortune #24
-33e1 fortune #25
-33e2 fortune #26
-33e3 fortune #27
-33e4 fortune #28
-33e5 fortune #29
-33e6 fortune #48
-33e7 fortune #31
-33e8 fortune #32
-33e9 fortune #33
-33ea fortune #34
-33eb fortune #35
-33ec fortune #36
-33ed fortune #37
-33ee fortune #47
-33ef fortune #39
-33f0 fortune #40
-33f1 fortune #41
-33f2 fortune #42
-33f3 fortune #43
-33f4 fortune #44
-33f5 fortune #45
-33f6 fortune #4
-33f7 fortune #38
-33f8 fortune #30
-33f9 fortune #6
-33fa fortune #16
-33fb fortune #51 **NEW**
-33fc fortune #52 **NEW**
-33fd fortune #53 **NEW**
-33fe fortune #54 **NEW**
-33ff fortune #55 **NEW**
-3400 fortune #56 **NEW**
-3401 fortune #57 **NEW**
+33c8 fortune cookie - gâteau de la chance
+33c9 fortune #1 - prédiction n° 1
+33ca fortune #2 - prédiction n° 2
+33cb fortune #3 - prédiction n° 3
+33cc fortune #46 - prédiction n° 46
+33cd fortune #5 - prédiction n° 5
+33ce fortune #49 - prédiction n° 49
+33cf fortune #7 - prédiction n° 7
+33d0 fortune #8 - prédiction n° 8
+33d1 fortune #9 - prédiction n° 9
+33d2 fortune #10 - prédiction n° 10
+33d3 fortune #11 - prédiction n° 11
+33d4 fortune #12 - prédiction n° 12
+33d5 fortune #13 - prédiction n° 13
+33d6 fortune #14 - prédiction n° 14
+33d7 fortune #15 - prédiction n° 15
+33d8 fortune #50 - prédiction n° 50
+33d9 fortune #17 - prédiction n° 17
+33da fortune #18 - prédiction n° 18
+33db fortune #19 - prédiction n° 19
+33dc fortune #20 - prédiction n° 20
+33dd fortune #21 - prédiction n° 21
+33de fortune #22 - prédiction n° 22
+33df fortune #23 - prédiction n° 23
+33e0 fortune #24 - prédiction n° 24
+33e1 fortune #25 - prédiction n° 25
+33e2 fortune #26 - prédiction n° 26
+33e3 fortune #27 - prédiction n° 27
+33e4 fortune #28 - prédiction n° 28
+33e5 fortune #29 - prédiction n° 29
+33e6 fortune #48 - prédiction n° 48
+33e7 fortune #31 - prédiction n° 31
+33e8 fortune #32 - prédiction n° 32
+33e9 fortune #33 - prédiction n° 33
+33ea fortune #34 - prédiction n° 34
+33eb fortune #35 - prédiction n° 35
+33ec fortune #36 - prédiction n° 36
+33ed fortune #37 - prédiction n° 37
+33ee fortune #47 - prédiction n° 47
+33ef fortune #39 - prédiction n° 39
+33f0 fortune #40 - prédiction n° 40
+33f1 fortune #41 - prédiction n° 41
+33f2 fortune #42 - prédiction n° 42
+33f3 fortune #43 - prédiction n° 43
+33f4 fortune #44 - prédiction n° 44
+33f5 fortune #45 - prédiction n° 45
+33f6 fortune #4 - prédiction n° 4
+33f7 fortune #38 - prédiction n° 38
+33f8 fortune #30 - prédiction n° 30
+33f9 fortune #6 - prédiction n° 6
+33fa fortune #16 - prédiction n° 16
+33fb fortune #51 **NEW** - prédiction n° 51 **NOUVEAU**
+33fc fortune #52 **NEW** - prédiction n° 52 **NOUVEAU**
+33fd fortune #53 **NEW** - prédiction n° 53 **NOUVEAU**
+33fe fortune #54 **NEW** - prédiction n° 54 **NOUVEAU**
+33ff fortune #55 **NEW** - prédiction n° 55 **NOUVEAU**
+3400 fortune #56 **NEW** - prédiction n° 56 **NOUVEAU**
+3401 fortune #57 **NEW** - prédiction n° 57 **NOUVEAU**
 
-Tickets
+Tickets - Tickets
 -------
-3402 Redd's cookie
-3403 dud ticket
-3404 flash ticket
-3405 bang ticket
-3406 sparkle ticket
-3407 whiz ticket
-3408 pow ticket
-3409 crackle ticket
-340a kaboom ticket
-340b pop ticket
+3402 Redd's cookie - rounardise
+3403 dud ticket - ticket perdant
+3404 flash ticket - ticket boum
+3405 bang ticket - ticket bang
+3406 sparkle ticket - ticket driiiing
+3407 whiz ticket - ticket crakboum
+3408 pow ticket - ticket poiiiing
+3409 crackle ticket - ticket badabim
+340a kaboom ticket - ticket vroum-vroum
+340b pop ticket - ticket hip-hip-hip
 
-In-game events
+In-game events - Jeux événements
 --------------
-341a bingo card
-341b expired bingo card
-341c time capsule
-341d scavenger-hunt list
+341a bingo card - grille de bingogo
+341b expired bingo card - grille périrmée
+341c time capsule - capsule temporelle
+341d scavenger-hunt list - liste de meuble
 
-Unused furniture (only inside)
+Unused furniture (only inside) - Objets impossible à obtenir
 ------------------------------
-2078 K.K. DJ table
-2079 museum stand (fossil)
-207a museum stand (small)
-207b museum stand (big)
-207c Reese's stand (small)
-207d Reese's stand (big)
-207e moving boxes (1)
-207f moving boxes (2)
-2080 moving boxes (3)
-2081 train station locker (1)
-2082 train station locker (2)
-2083 sold out
-2084 sold out (Gracie)
-2085 sold out (Reese)
-2086 sold out (invisible spot)
-2087 sold out (invisible spot)
-2088 sold out (Redd)
+2078 K.K. DJ table -- table de mixage de Kéké
+2079 museum stand (fossil) - Exposition musée (fossile)
+207a museum stand (small) - exposition musée (petite)
+207b museum stand (big) - exposition musée (grande)
+207c Reese's stand (small) - exposition de Risette (petite)
+207d Reese's stand (big) - exposition de Risette (grande)
+207e moving boxes (1) - cartons de départ (1)
+207f moving boxes (2) - cartons de départ (2)
+2080 moving boxes (3) - cartons de départ  (3)
+2081 train station locker (1) - casier de la gare (1)
+2082 train station locker (2) - casier de la gare (2)
+2083 sold out - vendu
+2084 sold out (Gracie) - vendu (Carla)
+2085 sold out (Reese) - vendu (Risette)
+2086 sold out (invisible spot) - vendu (invisible)
+2087 sold out (invisible spot) - vendu (invisible)
+2088 sold out (Redd) - vendu (Rounard)
 
-HRA exhibition (only inside)
+HRA exhibition (only inside) - Maquettes HRA (seulement à l'intérieur)
 ----------------------------
-3426 red mailbox
-3427 metal mailbox
-3428 blue mailbox
-3429 yellow mailbox
-342a orange mailbox
-342b green mailbox
-342c golden mailbox
-342d wooden mailbox
-342e white mailbox
-342f pink mailbox
-3430 zen mailbox
-3431 shabby mailbox
-3432 stainless mailbox
-3433 square mailbox
-3434 light-blue mailbox
-3435 cyan mailbox
-3436 mermaid mailbox
-3437 cabana mailbox
-3438 fairy-tale mailbox
-3439 royal mailbox
-343a barrel mailbox
-343b sweets mailbox
-343c arched circle door
-343d arched fish door
-343e arched astro door
-343f arched door
-3440 arched yellow door
-3441 arched metal door
-3442 arched patched door
-3443 arched sweets door
-3444 arched mermaid door
-3445 arched zen door
-3446 arched cabin door
-3447 arch fairy-tale door
-3448 arched brown door
-3449 arched green door
-344a arched heavy door
-344b arched blue door
-344c arched beige door
-344d arched imperial door
-344e arched pink door
-344f arched kiddie door
-3450 arched bamboo door
-3451 arched golden door
-3452 basic door
-3453 fish door
-3454 astro door
-3455 classic door
-3456 yellow door
-3457 metal door
-3458 patched door
-3459 sweets door
-345a mermaid door
-345b zen door
-345c cabin door
-345d fairy-tale door
-345e brown door
-345f green door
-3460 heavy door
-3461 blue door
-3462 beige door
-3463 imperial door
-3464 pink door
-3465 kiddie door
-3466 bamboo door
-3467 red roof
-3468 green-tile roof
-3469 blue-shingle roof
-346a astro roof
-346b kiddie roof
-346c black modern roof
-346d straw-thatched roof
-346e black-tile roof
-346f fairy-tale roof
-3470 ranch roof
-3471 shanty roof
-3472 concrete roof
-3473 sweets roof
-3474 white roof
-3475 purple-shingle roof
-3476 black-straw roof
-3477 mermaid roof
-3478 simple blue roof
-3479 purple roof
-347a pink roof
-347b black roof
-347c yellow roof
-347d fuchsia roof
-347e black-shingle roof
-347f brown roof
-3480 grass roof
-3481 stone roof
-3482 mint fairy-tale roof
-3483 uneven stone roof
-3484 simple green roof
-3485 simple gray roof
-3486 golden roof
-3487 blue roof
-3488 yellow roof
-3489 green roof
-348a rope fence
-348b picket fence
-348c country fence
-348d hedge
-348e pink mermaid fence
-348f blue mermaid fence
-3490 red-brick fence
-3491 gray-brick fence
-3492 pink fence
-3493 fairy-tale fence
-3494 corral fence
-3495 curvy fence
-3496 blue fence
-3497 fancy fence
-3498 zen fence
-3499 barbed-wire fence
-349a sweets fence
-349b concrete fence
-349c shanty fence
-349d bamboo fence
-349e sculpted hedge
-349f cinder-block wall
-34a0 golden fence
-34a1 brick exterior
-34a2 exotic exterior
-34a3 cobblestone exterior
-34a4 astro exterior
-34a5 kiddie exterior
-34a6 simple exterior
-34a7 cabana exterior
-34a8 zen exterior
-34a9 fairy-tale exterior
-34aa cabin exterior
-34ab shanty exterior
-34ac concrete exterior
-34ad sweets exterior
-34ae white-brick exterior
-34af chalet exterior
-34b0 brown-brick exterior
-34b1 mermaid exterior
-34b2 red-barn exterior
-34b3 blue chalet exterior
-34b4 pink exterior
-34b5 blue exterior
-34b6 orange exterior
-34b7 garden exterior
-34b8 yellow exterior
-34b9 white exterior
-34ba stucco exterior
-34bb stone exterior
-34bc melon exterior
-34bd earthy exterior
-34be fancy exterior
-34bf black exterior
-34c0 golden exterior
-34c1 colorful gravel
-34c2 stone pavement
-34c3 brick pavement
-34c4 pebble pavement
-34c5 square pavement
-34c6 concrete pavement
-34c7 blue-brick pavement
-34c8 pink pavement
-34c9 brown pavement
-34ca mansion
-34cb zen castle
-34cc castle
-34cd modern house
+3426 red mailbox - boîte lettres rouge
+3427 metal mailbox - boîte lettres métal
+3428 blue mailbox - boîte lettres bleue
+3429 yellow mailbox - boîte lettres jaune
+342a orange mailbox - boîte lettres orange
+342b green mailbox - boîte lettres verte
+342c golden mailbox - boîte lettres d'or
+342d wooden mailbox - boîte lettres bois
+342e white mailbox - b. lettres blanche
+342f pink mailbox - boîte lettres rose
+3430 zen mailbox - boîte lettres zen
+3431 shabby mailbox - boîte lettres récup
+3432 stainless mailbox - boîte lettres inox
+3433 square mailbox - boîte lettres carrée
+3434 light-blue mailbox - b. lettres bleu clair
+3435 cyan mailbox - boîte lettres cyan
+3436 mermaid mailbox - boîte lettres sirène
+3437 cabana mailbox - boîte lettres rotin
+3438 fairy-tale mailbox - boîte lettres fable
+3439 royal mailbox - boîte lettres royale
+343a barrel mailbox - boîte lettres baril
+343b sweets mailbox - b. lettres bonbon
+343c arched circle door - porte arc à hublot
+343d arched fish door - porte arc poisson
+343e arched astro door - porte arc astro
+343f arched door - porte arc fenêtre
+3440 arched yellow door - porte arc jaune
+3441 arched metal door - porte arc en métal
+3442 arched patched door - porte arc rafistolée
+3443 arched sweets door - porte arc bonbons
+3444 arched mermaid door - porte arc sirène
+3445 arched zen door - porte arc zen
+3446 arched cabin door - porte arc chalet
+3447 arch fairy-tale door - porte arc fable
+3448 arched brown door - porte arc marron
+3449 arched green door - porte arc verte
+344a arched heavy door - porte arc massive
+344b arched blue door - porte arc bleue
+344c arched beige door - porte arc beige
+344d arched imperial door - porte arc Chine
+344e arched pink door - porte arc rose
+344f arched kiddie door - porte arc enfant
+3450 arched bamboo door - porte arc bambou sec
+3451 arched golden door - porte arc d'or
+3452 basic door - porte à hublot
+3453 fish door - porte poisson
+3454 astro door - porte astro
+3455 classic door - porte à fenêtre
+3456 yellow door - porte jaune
+3457 metal door - porte métal
+3458 patched door - porte rafistolée
+3459 sweets door - porte bonbons
+345a mermaid door - porte sirène
+345b zen door - porte zen
+345c cabin door - porte chalet
+345d fairy-tale door - porte fable
+345e brown door - porte marron
+345f green door - porte verte
+3460 heavy door - porte massive
+3461 blue door - porte bleue
+3462 beige door - porte beige
+3463 imperial door - porte chine
+3464 pink door - porte rose
+3465 kiddie door - porte enfant
+3466 bamboo door - porte en bambou sec
+3467 red roof - toit rouge
+3468 green-tile roof - toit en tuile verte
+3469 blue-shingle roof - toit en bardeau bleu
+346a astro roof - toit astro
+346b kiddie roof - toit enfant
+346c black modern roof - toit noire moderne
+346d straw-thatched roof - toit en paille
+346e black-tile roof - toit en tuile noire
+346f fairy-tale roof - toit fable
+3470 ranch roof - toit ranch
+3471 shanty roof - toit baraquement
+3472 concrete roof - toit en béton
+3473 sweets roof - toit bonbons
+3474 white roof - toit blanc
+3475 purple-shingle roof - toit bardeau mauve
+3476 black-straw roof - toit en paille noire
+3477 mermaid roof - toit sirène
+3478 simple blue roof - toit simple bleu
+3479 purple roof - toit mauve
+347a pink roof - toit rose
+347b black roof - toit noir
+347c yellow roof - toir jaune paille
+347d fuchsia roof - toit fuchsia
+347e black-shingle roof - toit en bardeau noir
+347f brown roof - toit marron
+3480 grass roof - toit en herbe
+3481 stone roof - toit en pierre
+3482 mint fairy-tale roof - toit vert flable
+3483 uneven stone roof - toit pierre rustique
+3484 simple green roof - toit simple vert
+3485 simple gray roof - toit simple gris
+3486 golden roof - toit d'or
+3487 blue roof - toit bleu
+3488 yellow roof - toit jaune
+3489 green roof - toit vert
+348a rope fence - clôture de corde
+348b picket fence - clôture de piquets
+348c country fence - clôture de rondins
+348d hedge - clôture végétale
+348e pink mermaid fence - clôture sirène rose
+348f blue mermaid fence - clôture sirène bleue
+3490 red-brick fence - clôture brique rouge
+3491 gray-brick fence - clôture brique grise
+3492 pink fence - clôture rose
+3493 fairy-tale fence - clôture fable
+3494 corral fence - clôture de ferme
+3495 curvy fence - clôture ondulation
+3496 blue fence - clôture bleue
+3497 fancy fence - clôture fantaisie
+3498 zen fence - clôture zen
+3499 barbed-wire fence - clôture de barbelés
+349a sweets fence - clôture bonbons
+349b concrete fence - clôture en béton
+349c shanty fence - clôture baraquement
+349d bamboo fence - clôture bambou sec
+349e sculpted hedge - clôture vég. taillée
+349f cinder-block wall - clôture de parpaing
+34a0 golden fence - clôture d'or
+34a1 brick exterior - façade en brique
+34a2 exotic exterior - façade exotique
+34a3 cobblestone exterior - façade pierre taille
+34a4 astro exterior - façade astro
+34a5 kiddie exterior - façade enfant
+34a6 simple exterior - façade simple
+34a7 cabana exterior - façade rotin
+34a8 zen exterior - façade zen
+34a9 fairy-tale exterior - façade fable
+34aa cabin exterior - façade chalet
+34ab shanty exterior - façade baraquement
+34ac concrete exterior - façade en béton
+34ad sweets exterior - façade bonbons
+34ae white-brick exterior - façade briq. blanche
+34af chalet exterior - façade chaumière
+34b0 brown-brick exterior - façade brique marron
+34b1 mermaid exterior - façade sirène
+34b2 red-barn exterior - façade grange rouge
+34b3 blue chalet exterior - façade chaumière B
+34b4 pink exterior - façade rose
+34b5 blue exterior - façade bleue
+34b6 orange exterior - façade orange
+34b7 garden exterior - façade jardin
+34b8 yellow exterior - façade jaune
+34b9 white exterior - façade blanche
+34ba stucco exterior - façade en stuc
+34bb stone exterior - façade en pierre
+34bc melon exterior - façade verte
+34bd earthy exterior - façade en terre
+34be fancy exterior - façade royale
+34bf black exterior - façade noire
+34c0 golden exterior - façade d'or
+34c1 colorful gravel - terrasse colorée
+34c2 stone pavement - terrasse en pierre
+34c3 brick pavement - terrasse en briques
+34c4 pebble pavement - terrasse de galets
+34c5 square pavement - terrasse dalle jaune
+34c6 concrete pavement - terrasse en béton
+34c7 blue-brick pavement - terrasses briq. bleue
+34c8 pink pavement - terrasse dalle rose
+34c9 brown pavement - terrasse marron
+34ca mansion - maison de campagne
+34cb zen castle - château zen
+34cc castle - château
+34cd modern house - villa moderne
 
-Presents
+Presents - Cadeaux
 --------
-4de7 wrapping paper
+4de7 wrapping paper - papier d'emballage
 
-New furniture (update)
+New furniture (update) - Nouveaux objets (mise à jour)
 ----------------------
-3726 magic lamp **NEW**
-372a Ikada trophy **NEW**
+3726 magic lamp **NEW** - lampe magique **NOUVEAU**
+372a Ikada trophy **NEW** - trophée radeau **NOUVEAU**
