@@ -1,4 +1,4 @@
-Favorites
+Favorites - Favoris
 7FFE    Nothing - rien
 20ac    100 Bells - 100 Clochettes
 2117    99,000 Bells - 99 000 Clochettes
@@ -17,7 +17,7 @@ Favorites
 2ca4    Belpoint ABD - DAC
 2eca    7-11 ABD - DAC épicerie
 
-Fav. Handhelds
+Fav. Handhelds - Fav. équipements
 3353    Gold Net - filet doré
 3357    Gold Rod - canne à pêche dorée
 335b    Gold Shovel - pelle dorée
@@ -28,18 +28,18 @@ Fav. Handhelds
 339e    tweeter - sans-gêne
 338e    beans - panier d'haricots
 
-Fav. Vegetation
+Fav. Vegetation - Fav. Végétation
 2053    gold-rose bag - sac de roses dorées
 2051    black-rose bag - sac de roses noires
 2052    blue-rose bag - sac de roses bleues
 2958    Jacob's ladder - échelle de Jacob
 2959    lucky clovers - trèfle à quatre feuilles
 
-Fav. Hats
+Fav. Hats - Fav. Chapeaux
 285b    royal crown - couronne royale
 285c    crown -  couronne
 
-Fav. Environment
+Fav. Environment - Fav. Environnement
 2001    Apple - pomme
 2018    Apples - lot de pommes
 0070    Money Tree - arbre à clochettes
