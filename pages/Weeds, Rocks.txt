@@ -1,24 +1,24 @@
-Weeds / Rocks
+Weeds / Rocks - Mauvaises herbes / Rochers
 
-Weeds
-007c weed
-007d weed (2)
-007e weed (3)
-007f weed (4)
-00c9 lucky clovers
-00ca dandelions
-00cb dandelion puffs
-00cc clovers (weed)
-00cd rafflesia
-00f8 rafflesia (wilted)
+Weeds - Mauvaises herbes
+007c weed - mauvaise herbe
+007d weed (2) - mauvaise herbe (2)
+007e weed (3) - mauvaise herbe (3)
+007f weed (4) - mauvaise herbe (4)
+00c9 lucky clovers - trèfle à quatre feuilles
+00ca dandelions - pissenlit
+00cb dandelion puffs - tête de pissenlit
+00cc clovers (weed) - trèfle
+00cd rafflesia - rafflesia
+00f8 rafflesia (wilted) - rafflesia (fanée)
 
-Rocks
-0098 rock
-0099 rock (2)
-009a rock (3)
-009b rock (4)
-009c rock (5)
+Rocks - Rochers
+0098 rock - rocher
+0099 rock (2) - rocher (2)
+009a rock (3) - rocher (3)
+009b rock (4) - rocher (4)
+009c rock (5) - rocher (5)
 
-Other
-009e hole
-009d Pattern
+Other - Autres
+009e hole - trou
+009d Pattern - sol
