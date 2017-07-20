@@ -127,7 +127,7 @@ Drinks - Boissons
 3396 lemon double scoop - glace citron-menthe
 3397 mint double scoop - glace tropical-melon
 
-Custom Stuff - 
+Custom Stuff - Trucs customisés
 33a7 custom shirt - motif vêtement
 33a8 custom pattern (easel) - motif sol chevalet
 33a9 custom pattern (frame) - motif sol cadre
